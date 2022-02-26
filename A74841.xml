@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first decade of vseful observations, raised out of modern experience.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74841</idno>
+            <idno type="STC">Thomason E562_5</idno>
+            <idno type="STC">ESTC R205023</idno>
+            <idno type="EEBO-CITATION">99864468</idno>
+            <idno type="PROQUEST">99864468</idno>
+            <idno type="VID">116697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116697)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E562[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first decade of vseful observations, raised out of modern experience.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>At head of title page: Numb. 1.</note>
+                  <note>Dated at end: June 25. 1649. Imprimatur T.J.</note>
+                  <note>Annotation on Thomason copy: "June 28 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116697:1" rendition="simple:additions"/>
+            <head>The Firſt DECADE OF Vſeful Obſervations, Raiſed out of Modern Experience.</head>
+            <epigraph>
+               <q>
+                  <l>Scientiae mater Experientia.</l>
+                  <l>Temporis filia Veritas.</l>
+               </q>
+            </epigraph>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>HAving fixt a ſerious eye upon the late holding forth of pretences, and managing of Councels, I finde, that as one plauſible and common end engageth, and for a time unites perſons of ſeveral opinions, intereſts, and affections, diſtaſting the preſent ſtate of publique affairs, and diſpleaſed with them that ſit at the Helm, or move in a higher ſphere above them, through ignorance, ambition, ſpleen, or co<g ref="char:EOLhyphen"/>vetouſneſs
+<pb n="2" facs="tcp:116697:2"/> for the moſt part (though ſome things are really amiſs, and obvious even to vulgar apprehenſion,) amongſt which the great dealers in the project for a change ſhuffle other things under the common notion of errors in Government, and preſſures of Liberty, that thereby they may take in ſunder the frame, and o<g ref="char:EOLhyphen"/>verthrow the foundations of that ſtanding Government, which wiſely regulated doth make moſt for the ſecurity and happineſs of all, and be a ſtop to dangerous innovations and particular de<g ref="char:EOLhyphen"/>ſignes: ſo again, through factious ambition, perverſe aemulation, and other paſſions, the daughters of humane impotence in the heads of parties divided in their ſpecial intereſts, after cloſe and ſecret underminings of each other, when their affairs are in a poſture (as they conceive) to affront their rivals, there is a ſudden ſpringing of their mines, to the blowing up (if poſſible) of each other, at leaſt to a mutual ballancing, as neer as may be, of their powers, till by advantage of counſels, opportunity of time, and the activeneſs (which is ever moſt vehement and induſtrious in the younger brethren) as well as numerouſneſs and train of their adherents, one ſerpent devours and ſwallows up the reſt, or charms them ſo, that they lie as it were benum'd, or retire to their holes and coverts, where they ſpit their venom againſt them, whoſe o<g ref="char:EOLhyphen"/>verpowering vertue by force hath driven them from the publique Stage and Theatre, upon which the neweſt diſguiſes and lateſt inventions pleaſe the vulgar ſpectators beſt.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>As many Factions headed by one, which is moſt potent and popular at the firſt, under its ſhelter and protection grow up and ſtrengthen themſelves, and for a time contribute their utmoſt to the pulling down of the orderly ſtructure and well fram'd build<g ref="char:EOLhyphen"/>ing of that Government which is ſetled, though in all hearts not ſo firm and uniform as in time it may be: So when the firſt days work of ruine and deſtruction is at an end, the next morn<g ref="char:EOLhyphen"/>ings buſineſs proves like that of the worm which bred in <hi>Jona<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> gourd, and ſmote it at the root, ſo that the leaves thereof wither<g ref="char:EOLhyphen"/>ed and fell away; for the under and weaker faction rooting it ſelf at the bottom of that which is more grown and ſpreading, ſecretly ſmirts, and ſuddenly overthrows it: and as it grew up
+<pb n="3" facs="tcp:116697:2"/> in a night, ſo it periſheth in a night; growing up in a night of darkneſs and confuſion overſpreading a people, and periſhing in a night of new Schiſms and black Errors ſupervening the former ſhadows and obſcurity.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>Schiſm as a ſhaking Ague in the body of the Church, and Facti<g ref="char:EOLhyphen"/>on as a burning Feaver in the body of the State, have the<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> re<g ref="char:EOLhyphen"/>treats and intermiſſions, as well as their violent fits and conflicts: but ſuch their intermiſſions are no longer, then either while they are affronted &amp; over-maſtered by a ſuperior commanding power, or by condeſcentions in way of Treaty, they hope to mount and raiſe themſelves the higher, or to prevent the provoking of Ma<g ref="char:EOLhyphen"/>giſtrates, and the occaſioning of ſtrict Laws againſt their courſe and motion; in which ſpace notwithſtanding, their putrifacti<g ref="char:EOLhyphen"/>on ſpreads it ſelf more and more throughout the veins, until at laſt an ill-temper'd habit ſeizeth on, and diſaffects the whole, for want of timely vomits, or <hi>Phlebotomy</hi> in the ſecond place, where preventional cleanſings and ſeaſonable drainings have been neg<g ref="char:EOLhyphen"/>lected in the firſt: And becauſe the ſymptomes of theſe ſickly per<g ref="char:EOLhyphen"/>turbations, by reaſon of their inward and ſecret workings, oft times appear not until the very breaking forth of the maladies; its wiſdom (an imperious tyranny, and arbitrary lording of it, with an implicite faith, and ſervile obedience avoyded) to hold all to an outward ſubjection and conformity; ſufficiently pro<g ref="char:EOLhyphen"/>viding withal, that tender and unquiet Conſciences may receive ſatisfaction to their ſcruples in publique, from ſelect perſons de<g ref="char:EOLhyphen"/>ſigned and authoriz'd for that end in all parts of the Land, if from the next in office, whether civil, or ſpiritual, they cannot: but that (in caſe of not acknowledging themſelves ſatisfied) un<g ref="char:EOLhyphen"/>der ſevere penalties, they ſhall neither publiquely teach or main<g ref="char:EOLhyphen"/>tain, nor privately inſtruct or perſwade any, contrary to that which is eſtabliſh'd in Church or State by legal Authority, nor divulge, by any means, whatſoever tends to undermine and over<g ref="char:EOLhyphen"/>throw the ſame.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>The ſeed of Schiſm and faction is very ſmall at firſt, reſembling a grain of muſtardſeed, which is one of the leaſt of ſeeds; but if
+<pb n="4" facs="tcp:116697:3"/> ſuffered to take root, in a ſhort time it grows to be ſo great, that it becomes a tree, ſo that the fouls of Heaven come and build in the branches thereof: So Schiſm and Faction, not rooted out at the firſt, become lofty and ſpreading, ſo that ambitious and airy ſpirits pearch upon the boughs, and ſeat themſelves in the branches thereof, deſirous to be eminent, and appear in chief a<g ref="char:EOLhyphen"/>bove the reſt. As the little cloud alſo, which <hi>Elijahs</hi> ſervant ſaw riſing out of the Sea like a mans hand, and ſuddenly the Hea<g ref="char:EOLhyphen"/>ven was all over black with clouds and wind; ſo the malign vapor of Schiſm and Faction, exhal'd out of the foaming ſea of mens reſtleſs and blackiſh paſſions, appears at the firſt diſcovery but of a hand-bredth, and inconſiderable, in regard of its ſtrength or danger; but neglected, it ſpreads apace through turbulent winds, to the obſcuring of the face of a Church and State, and darkening the refulgent ſplendor and luſtre thereof: Wherefore the Poets counſel cannot be amiſs herein;
+<q>
+                     <lg>
+                        <l>Principiis obſta, ſerò medicina paratur,</l>
+                        <l>Cum mala per longas invaluere moras.</l>
+                     </lg>
+                  </q>
+                  <q>
+                     <lg>
+                        <l>Each Schiſm and Faction in the Craddle ſmite:</l>
+                        <l>Let not ſuch ſerpents long enjoy the Light.</l>
+                        <l>When maladies are ſtrong, and aged grown,</l>
+                        <l>That phyſick cannot cure, in vain we moan.</l>
+                     </lg>
+                  </q>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>As it is the curſed fruit, and immediate effect of Schiſm and Faction, to deſtroy Unity, and diſturb Order, in regard of that which is peaceably and well ſetled, as to the publique: ſo its the uſual folly and puniſhment of either of them, after a while, to break in ſunder into Diviſions, and multiply into Sects; and each fighting more or leſs againſt its fellows, whileſt they are on foot; they are not of power, nor ſo in league, as to imbody themſelves any long time againſt the forces of an orderly truth, and a well-conſtituted Government; and in the end through mutual con<g ref="char:EOLhyphen"/>flicts deſtroy each other, or crumble into ſuch petty Sects and under-Factions, that like ſo many ſparks flying from the ſame fire-coal, they go out and vaniſh of themſelves.</p>
+            </div>
+            <div n="6" type="part">
+               <pb n="5" facs="tcp:116697:3"/>
+               <head>VI.</head>
+               <p>Many are the cauſes and occaſions which contribute to the mul<g ref="char:EOLhyphen"/>tiplying of Schiſms and Factions, as affectation of novelty and va<g ref="char:EOLhyphen"/>riety implanted in men by nature, weary for the moſt part of things when they grow ſtale and common, as children are of babies, with which they are much taken at the firſt. For if Manna it ſelf be<g ref="char:EOLhyphen"/>came lothſom to the <hi>Iſraelites,</hi> becauſe it grew common, though it was the Bread of Heaven, and anſwered at firſt to every mans taſte and reliſh, ſo that they luſted after the fleſh-pots of <hi>Aegypt,</hi> and after Leeks and Onyons, even to a nauſeous rejecting of that which might have been food for Angels, if they could have hun<g ref="char:EOLhyphen"/>gred: If men grew weary of Chriſt himſelf, and his heavenly Do<g ref="char:EOLhyphen"/>ctrine, the ſpiritual Food and Manna of their ſouls, ſo that within a while after the Chriſtian Faith was planted in the Churches of <hi>Pergamus, Thyatira,</hi> and <hi>Laodicea,</hi> the firſt became infeſted with the Idolatrous and impure doctrines of <hi>Balaam,</hi> and the <hi>Nicolai<g ref="char:EOLhyphen"/>tans:</hi> The ſecond ſuffered the woman <hi>Jezabel,</hi> vailing her ſelf under the name of a Propheteſs to teach and deceive many, even ſuch as profeſt themſelves the ſervants of God and his bleſſed Truth, to make them commit fornication, and to eat meat ſacrificed to Idols: And the third was become lukewarm, neither hot nor cold, without zeal, either to maintain truth, or practiſe holi<g ref="char:EOLhyphen"/>neſs. Is it poſſible that ſchiſmatical Opinions, erroneous Tenets, and ſeditious Doctrines, which are the poyſon of the ſoul, though cookt, and ſet forth, and ſweetned by the beſt art of Satan, ſhould ſtill pleaſe the ſame appetites, though corrupt, much leſs diverſe, if they be ſtill the ſame, and offered after the ſame mode and faſhi<g ref="char:EOLhyphen"/>on. And as there is a deſire of novelty and variety in all men more or leſs by a ſecret ſpring in nature, though men of wiſdom and ſo<g ref="char:EOLhyphen"/>briety much reſtrain and rectifie the ſame; ſo is there oftentimes too a diſeaſe of inconſtancy in the ſame particular men, which, after much acquaintance and intimate familiarity, grow out of love with, and become ſtrangers to their own Principles which they held forth to others, and fall away from their own party, with whom they ſolemnly, if not ſuperſtitiouſly, had engaged; which inconſtancy of Individuals (for the moſt part) proceeds from the acceſs of clearer light, and fuller knowledg, with which by degrees they come acquainted, which diſcovers to them the vanity and
+<pb n="6" facs="tcp:116697:4"/> falſhood of that, whoſe defects in the twi-light of their ignorance, and firſt dawnings of their knowledg did not appear unto them; from diſcovery of dangers not foreſeen, and inconveniences, as to to their own benefit and proper intereſt, if they perſiſt in the wor<g ref="char:EOLhyphen"/>ſhip of that golden Image (their peculiar imaginations) which themſelves have ſet up, with calling upon others by the various muſick of the moſt harmonious and beſt tun'd Rhetorick of their tongues and pens, to the dedication of, and falling down to the ſame; and from new and more advantagious ends preſented upon deſiſting to proſecute their hitherto profeſt way, which makes them ſhake hands with themſelves, and ſteer a new courſe, to ar<g ref="char:EOLhyphen"/>rive at a more ſafe Port and commodious Haven. The different tempers alſo which are predominant in men, the divers ſenſes which overſway men in their judgments, together with the ſeve<g ref="char:EOLhyphen"/>ral ends which they aym and level at as their whites and marks, occaſion diverſity of Sects, Schiſms and Factions at their firſt ad<g ref="char:EOLhyphen"/>vance and marching forth; the which, through ſome mens ſpleen<g ref="char:EOLhyphen"/>tique diſcontent with others in chief afterwards, or their ambiti<g ref="char:EOLhyphen"/>ous ſingularity to ſet up their own Enſignes and Standards apart, are much widened and encreaſed.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>Schiſmatiques and Sectaries though divided amongſt themſelves, are of ſeveral profeſſions, in regard of their peculiar and ſpecifique Principles, are fellow-laborers notwithſtanding in building up the Devils Kingdom, as the fellow-craftſmen of <hi>Demetrius</hi> the ſilver-ſmith for <hi>Diana</hi> at <hi>Epheſus,</hi> who (obnoxious without queſtion to private ſpleens and emulations, <hi>faber enim fabro invidet</hi>) being called together with other workmen of like occupations, in an unanimous ſhout almoſt for the ſpace of two hours cryed as the <hi>Epheſian Diana,</hi> and her Temple: For though the Devils King<g ref="char:EOLhyphen"/>dom, if it were divided againſt it ſelf could not ſtand, yet by the diviſions of ſeduced men through evil luſts, and ſeducing ſpirits, his Kingdom is enlarged and propagated, becauſe ſuch diviſions ſepa<g ref="char:EOLhyphen"/>rate from Union with God, and Communion with his Saints, and make the divided belong to the ſame Army under their Captain General <hi>Abaddon</hi> or <hi>Apollyon, Rev.</hi> 9.11. though following di<g ref="char:EOLhyphen"/>vers Colours, and different Enſignes, whoſe ſervice they advance,
+<pb n="7" facs="tcp:116697:4"/> in ſeeking by a joynt labor, though with ſundry Engines and means to pull down Gods ſpiritual pallace, and holy Temple on Earth, as <hi>Ephraim</hi> and <hi>Manaſſes</hi> to oppreſs <hi>Judah,</hi> the Phariſees and Sa<g ref="char:EOLhyphen"/>duces to deſtroy Chriſt, and the <hi>Manichees</hi> by their two Princi<g ref="char:EOLhyphen"/>ples and fatal neceſſity, and <hi>Pelagians</hi> by their free will and uni<g ref="char:EOLhyphen"/>verſal grace, to pervert the Catholique Faith of true Beleevers.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>Amongſt Schiſmaticks and Sectaries, ſome [like <hi>the Adverſa<g ref="char:EOLhyphen"/>ries of Judah and B<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>njamin,</hi> Ezra 4. (<hi>viz.</hi> the inhabitants of <hi>Sa<g ref="char:EOLhyphen"/>maria,</hi> whom the King of <hi>Aſſyria</hi> had placed there inſtead of the ten Tribes,) <hi>hearing that the children of the late Captivity were building the Temple to the Lord God of Iſrael,</hi> to the end they might retard and hinder it, <hi>came to Zerubbabel, and to the chief Fathers, and ſaid unto them, we'l build with you, for we ſeek the Lord your God as ye do, and we have ſacrificed unto him, &amp;c.</hi>] to interrupt and trouble the ſpiritual workmen about Gods Temple, conſiſting of many well poliſht and living ſtones, whoſe Foundation is Humility and Patience, whoſe Pillars are Order and Uniformity, whoſe Windows are Wiſdom and clear Knowledg in ſpiritual Things, and whoſe Roof is Faith arched with Charity, and overlaid with the precious gold of ſhining and good Works, and to hinder the advancement and amplifying of Chriſts in the hearts of Beleevers, will pretend to the ſame myſtical Body, the ſame gracious Spirit, the ſame ſoveraign Lord, Evangelical Faith, and Chriſtian-Baptiſm too, except in this evening of time, and dotage of the world, when ſome (though but once born from their mothers womb) will needs be twice new-born within the boſom of the Church, with thoſe who ſincerely follow the Truth in Peace and Love, and meeting together in the Unity of Faith and Knowledg of the Son of God, grow up into a perfect man, to the meaſure of the ſtature of the Fulneſs of Chriſt.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>An Aſſembly of Schiſmaticks may be juſtly ſtiled a generation of Vipers, for the young Vipers (as Naturaliſts obſerve) gnaw their way through their Dams belly to come into the world: So theſe ſtruggle in the womb, and tear in ſunder, as it were, the bowels of
+<pb n="8" facs="tcp:116697:5"/> the Church of Chriſt, to bring forth themſelves into the world to deceive ſimple and unſtable ſouls, whoſe unhappy labors and perni<g ref="char:EOLhyphen"/>cious diligence tend to the breach of ſpiritual Unity, to corrupt the purity of Faith, to diſſolve the bonds of Peace, to untwiſt the cords of Love, to ſtain the beauty of order and grace of Uniformity, to unlink and ſever the chain of heavenly Graces; and in a word<g ref="char:punc">▪</g> to undermine the ſtrong Pillars, looſen the Couples, darken the Lights, and ſhake in ſunder the whole frame of Gods Spiritual Houſe and Building, the Congregation of Beleevers.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>To conclude, The happineſs of a particular or national Church free from Schiſm, redounds to the happine s and quiet of the Civil State, and preſerves it from unnatural Combuſtions, unrea<g ref="char:EOLhyphen"/>ſonable Diviſions, and factious ſidings; Rebellion for the moſt part masking it ſelf under the viſor of Religion, which teacheth Chriſtians, under the yoke of ſubjection, innocence, prayers and patience; not arms, reſiſtance, or reviling. Within a Church ſo becalmed and ſetled, the <hi>Jeruſalem of God</hi> is builded as a City which is at Unity in it ſelf, Chriſt protecting it, his Spirit breathing on it, his Angels miniſtring unto it, who rejoyce at its Order, Peace and Unity; the Devil and his Emiſſaries caſt out, and her ſpiritual Sons and Daughters growing up into Chriſt, by whom all the Body being coupled and knit together, according to the effectual working in every part, receiveth encreaſe of the Body to the edifying of it ſelf in Love.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>June</hi> 25. 1649.</date>
+               </dateline>
+            </opener>
+            <p>Imprim. </p>
+            <closer>
+               <signed>T. <hi>J.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> T. M.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
